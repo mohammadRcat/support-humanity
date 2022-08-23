@@ -247,3 +247,26 @@ body {
     border-radius: 0px 5px 5px 0px;
 
 }
+
+footer {
+    text-align: center;
+    background: #0B0D17;
+    height: 167px;
+    margin-top: 100px;
+}
+
+footer h1 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FF5959;
+    padding-top: 40px;
+}
+
+footer p {
+    color: #D9DBE1;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
