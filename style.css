@@ -191,3 +191,59 @@ body {
     padding-bottom: 0;
     text-align: center;
 }
+
+.update-side {
+    text-align: center;
+    width: 691px;
+    height: 130px;
+    margin-left: 25%;
+}
+
+.update-side h2 {
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    color: #121212;
+    margin-top: 60px;
+    margin-bottom: 0;
+
+}
+
+.update-field p {
+    width: 691px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+
+}
+
+.update-field {
+    width: 809px;
+    height: 200px;
+    text-align: center;
+    background: #FFF4D6;
+    margin-left: 20%;
+
+}
+
+.update-field input {
+    width: 275px;
+    height: 48px;
+    text-align: start;
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    margin-top: 78px;
+}
+
+.update-field button {
+    width: 157px;
+    height: 48px;
+    background: #FF5959;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+
+}
